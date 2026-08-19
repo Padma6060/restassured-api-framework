@@ -1,0 +1,4 @@
+base\BaseTest.class
+tests\CreateProductTest.class
+tests\UpdateDeleteTest.class
+tests\ProductTest.class
